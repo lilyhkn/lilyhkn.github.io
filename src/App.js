@@ -8,11 +8,11 @@ export default function App() {
     <Router>
       <div className="header">
         <div className="links">
-          <Link href="/">Home</Link>
+          <Link href="/portfolio">Home</Link>
           <span className="divider"> </span>
-          <Link href="/coding">Coding</Link>
+          <Link href="/portfolio/coding">Coding</Link>
           <span className="divider"> </span>
-          <Link href="/art">Art</Link>
+          <Link href="/portfolio/art">Art</Link>
         </div>
       </div>
 
