@@ -88,13 +88,13 @@ const Home = () => {
             <Subheader text="TOOLS" classname="homeSubheader" />
           </div>
           <p>a mix of coding and art-making software</p>
-          <TechStack img={imgs[6]} text="milanote" />
+          {/* <TechStack img={imgs[6]} text="milanote" /> */}
           <TechStack img={imgs[6]} text="notion" />
           <TechStack img={imgs[11]} text="procreate" />
           <TechStack img={imgs[7]} text="adobe" />
           <TechStack img={imgs[8]} text="unity" />
           <TechStack img={imgs[9]} text="maya" />
-          <TechStack img={imgs[6]} text="capcut" />
+          {/* <TechStack img={imgs[6]} text="capcut" /> */}
           {/* <TechStack img={imgs[14]} text="tinkerCAD" /> */}
 
           <div className="textContainer"><img src={tile4} style={{width:"8%", margin: "6rem 0rem 0rem 0rem"}}/>
